@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PDC CERTIS B2
+Comment=PDC CERTIS B2
+Exec=/usr/local/share/tscbarcode/printer/thermalprinterui
+Icon=/usr/local/share/tscbarcode/printer/thermalprinterui.png
+Terminal=false
+Type=Application
+Categories=HardwareSettings;Settings;Printing;
+
